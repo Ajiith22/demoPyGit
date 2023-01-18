@@ -1,2 +1,2 @@
 print("Hello buddy long way to go")
-print("i'm working here for 10 days")
+print("this is nothing  in your life")
